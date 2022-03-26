@@ -1,3 +1,3 @@
-# MATCHA CREAM
+# Cocoa Club
 
-Decentralized NFT Trading Application
+Hello CocoA👋
